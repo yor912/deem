@@ -1,0 +1,6 @@
+{
+  "name": "GenericUI",
+  "tree": {
+    "$className": "DataModel"
+  }
+}
