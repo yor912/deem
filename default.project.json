@@ -14,7 +14,7 @@
     "StarterPlayer": {
       "StarterPlayerScripts": {
         "Demo": {
-          "$path": "./Demo.client.luau"
+          "$path": "./Demo.client.luau" 
         }
       }
     }
