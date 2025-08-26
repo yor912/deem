@@ -1,6 +1,8 @@
-# Project place file
-/generic-ui-repository.rbxlx
-
-# Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+/*.rbxl
+*.toml
+
+Packages
+Demo.client.luau
+default.project.json
