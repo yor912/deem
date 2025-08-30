@@ -4,5 +4,4 @@ return function(scope: {}, data: any)
 			return use(data)
 		end)
 	end
-	error 'First argument must be a scope'
 end

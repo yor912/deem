@@ -1,0 +1,11 @@
+[package]
+name = "space0167/deem"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "LICENSE", "wally.toml"]
+
+[dependencies]
+fusion = "elttob/fusion@0.3.0"

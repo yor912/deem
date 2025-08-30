@@ -1,22 +1,6 @@
 {
-  "name": "GenericUI",
+  "name": "deem",
   "tree": {
-    "$className": "DataModel",
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
-      "Packages": {
-        "$path": "./Packages",
-        "GenericUI": {
-          "$path": "./src"
-        }
-      }
-    },
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Demo": {
-          "$path": "./Demo.client.luau" 
-        }
-      }
-    }
+    "$path": "src"
   }
 }

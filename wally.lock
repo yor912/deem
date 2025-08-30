@@ -8,6 +8,6 @@ version = "0.3.0"
 dependencies = []
 
 [[package]]
-name = "singu/generic-ui-repository"
-version = "1.2.0"
+name = "space0167/deem"
+version = "0.1.0"
 dependencies = [["fusion", "elttob/fusion@0.3.0"]]

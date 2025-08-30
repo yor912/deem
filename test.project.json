@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+        "Packages": {
+            "$path": "Packages",
+            "deem": {
+                "$path": "src"
+            }
+        }
+    },
+    "StarterPlayer": {
+        "StarterPlayerScripts": {
+            "test": {
+                "$path": "test"
+            }
+        }
+    }
+  }
+}

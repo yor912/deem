@@ -1,7 +1,6 @@
 /*.rbxlx.lock
 /*.rbxl.lock
 /*.rbxl
-*.toml
 
 Packages
-Demo.client.luau
+sourcemap.json
