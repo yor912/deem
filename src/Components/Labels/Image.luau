@@ -1,6 +1,6 @@
 local Deem = script.Parent.Parent.Parent
-local Modules = Deem.Modules
-local Computed = require(Modules.Computed)
+local Modules = require(Deem.Modules)
+local Computed = Modules.Computed
 local Fusion = require(Deem.Parent.fusion)
 local Children = Fusion.Children
 

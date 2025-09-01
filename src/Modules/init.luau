@@ -1,3 +1,3 @@
 return {
-    Computed = require(script.Computed),
+    Computed = require(script.Computed)
 }
